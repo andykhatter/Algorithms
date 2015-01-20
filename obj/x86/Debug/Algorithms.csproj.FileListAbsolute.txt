@@ -1,0 +1,5 @@
+c:\users\andy khatter\documents\visual studio 2010\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+c:\users\andy khatter\documents\visual studio 2010\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\andy khatter\documents\visual studio 2010\Projects\Algorithms\Algorithms\obj\x86\Debug\Algorithms.exe
+c:\users\andy khatter\documents\visual studio 2010\Projects\Algorithms\Algorithms\obj\x86\Debug\Algorithms.pdb
+C:\Users\Andy Khatter\Documents\Visual Studio 2010\Projects\Algorithms\Algorithms\obj\x86\Debug\Algorithms.csprojResolveAssemblyReference.cache
